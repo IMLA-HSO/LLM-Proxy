@@ -1,2 +1,4 @@
 # LLM-Proxy
-HSO LLM Proxy Project
+The ***HSO LLM Proxy Project*** is still under construction. We expect a first release in 10/20205.
+
+
